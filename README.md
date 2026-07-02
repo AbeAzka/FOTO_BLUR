@@ -1,6 +1,6 @@
 # FOTO_BLUR
 
-Program Python sederhana untuk memberikan efek blur pada foto secara otomatis. Cocok digunakan untuk menyamarkan wajah, informasi sensitif, atau bagian tertentu pada gambar.
+Program Python sederhana untuk memberikan efek blur pada foto secara otomatis. Program ini terinspirasi dari video-video fyp di berbagai platform media sosial yang menggunakan lagu "Foto kita blur by Sal Priadi".
 
 ## Fitur
 
